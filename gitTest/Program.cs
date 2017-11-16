@@ -11,6 +11,7 @@ namespace gitTest
         static void Main(string[] args)
         {
             printf("milsadsdad added");
+            printf("milsadsdad added");
         }
     }
 }
